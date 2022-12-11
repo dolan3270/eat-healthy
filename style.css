@@ -1,0 +1,63 @@
+body{
+    background-color: whitesmoke;
+    
+}
+
+.font-effect-emboss{
+    font-size: x-large;
+}
+.para-section-one{
+    padding-bottom: 15px;
+}
+.link-section-one{
+    text-decoration: none;
+    padding: 10px;
+    background-image: linear-gradient(orange, red);
+    border-radius: 50px;
+
+}
+
+.div-middle {
+    background-image: url('image/backg-woman.png');
+    padding-bottom: 10%;
+    background-repeat: no-repeat;
+}
+.div-middle h1{
+    margin-left: 60%;
+    padding-right: 10%;
+    padding-top: 10%;
+    padding-bottom: 4%;
+
+}
+.div-middle p {
+    margin-left: 60%;
+    padding-right: 10%;
+    padding-bottom: 5%;
+}
+
+.link-middle {
+    margin-left: 60%;
+    padding-right: 10%;
+    text-decoration: none;
+    background-image: linear-gradient(tomato, red);
+    border-radius: 50px;
+    padding: 10px;
+
+}
+
+.section-top{
+    padding-left: 50px;
+
+}
+
+.flexible-container{
+    display: flex;
+}
+.half-width{
+    width: 85%;
+}
+
+.half-width img{
+    width: 80%;   
+}
+
