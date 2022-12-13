@@ -18,7 +18,7 @@ body{
 }
 
 .div-middle {
-    background-image: url('image/backg-woman.png');
+    background-image: url('image/back-image.png');
     padding-bottom: 10%;
     background-repeat: no-repeat;
 }
@@ -60,4 +60,23 @@ body{
 .half-width img{
     width: 80%;   
 }
+.ricipies-section h1{
+   text-align: center;
+   padding-top: 40px;
+   padding-bottom: 35px;
+}
+.w3-card-4{
+    margin: 5%
+}
+
+.ricipies-section p{
+    text-align: center;
+    
+ }
+.w3-card-4{
+    display: flex;
+    width: 50%;
+    padding-top: 10px;
+}
+
 
