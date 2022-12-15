@@ -52,7 +52,6 @@ body{
 
 .flexible-container{
     display: flex;
-   padding-left: 5%;
 }
 .half-width{
     width: 85%;
@@ -67,7 +66,7 @@ body{
    padding-bottom: 35px;
 }
 .w3-card-4{
-    margin: 3%
+    margin: 5%;
 }
 
 .ricipies-section p{
@@ -106,8 +105,6 @@ body{
     padding-left: 15%;
     width: 100%;
     text-align: center;
-
-
 }
 
 
